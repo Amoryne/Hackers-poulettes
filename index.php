@@ -52,7 +52,7 @@
      </div>
 </div>   
    <div class="container-formulaire ">
-<form class="form row g-9 gap-3" action="" method="POST">
+<form class="form row g-9 gap-3" action="form.php" method="post">
 
 
 
