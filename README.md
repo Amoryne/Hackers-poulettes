@@ -1,12 +1,11 @@
-
-## Tech 
+## :rat: I learn.. ☁️
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
 
 
-# Hackers Poulettes 
+# 🐓  Hackers Poulettes
 
 
 
@@ -26,11 +25,13 @@ The form should be comprised of:
 NOTE: All field, except subject, have to be completed. The field subject takes a default value of Other.
 
 
-## Screenshots
+## :art: Figma
 
 ![App Screenshot](./screen-figma.png)
 
 
-## 🔗 See the result...
+## :scream_cat: See the result...
 
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) { [Click here :cloud:](http://amoryne.gladion.eu/amoryne/) }
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) 
+
+{ [Click here :cloud:](http://amoryne.gladion.eu/amoryne/) }
